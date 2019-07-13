@@ -17,12 +17,13 @@ html文件夹内内容：
 
      主要作者：王崎璇（xxxxx)
      
-     协作者：陈嘉(登录界面，API界面及部分调整)
+     次要作者：陈嘉(xxxxx)
      
 CarTeller文件夹内容：
 
-      服务器端：app文件内内容
-              主要作者：高晓凯 （xxxx)
+      服务器端：
+      app文件内内容,主要作者：高晓凯 （gunicorn+flask)
+      环境配置和搭建，项目部署，主要作者:高晓凯(gunicorn+nginx,apache)
       
       后台深度学习用于汽车识别代码：
       
@@ -36,7 +37,7 @@ CarTeller文件夹内容：
              数据集：自己制作寻找
              网络：VGG16
       
-      车型识别（CarInfoTeller）：识别汽车品牌： 主要作者：周宏俊
+      车型识别（CarInfoTeller）：识别汽车品牌： 主要作责：周宏俊
              数据集：Stanford Cars 196种常见汽车车型和其年份品牌信息
              网络：ResNet152
      
